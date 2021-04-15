@@ -6,7 +6,7 @@ use EWZ\Bundle\RecaptchaBundle\Locale\LocaleResolver;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\RequestStack;
-
+//heavy
 class LocaleResolverTest extends TestCase
 {
     /**
